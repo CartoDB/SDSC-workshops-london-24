@@ -22,7 +22,7 @@ Lunch
 ### 13:30 - 14:30
 **Room A**
 - Using Databricks and Carto to process, serve and explore global spatio-temporal datasets |  Led by Stuart Lynn, Senior Specialist Solutions Architect at Databricks
-- [Slides]
+- [Slides](https://docs.google.com/presentation/d/1vI7DsFJyTmV_ZmnMUrnKL9r9hoZ8O9TR/edit?usp=sharing&ouid=114031233371954147022&rtpof=true&sd=true)
 
  **Room B**
 - Where and When: A Space-Time Analysis of Vehicle Collisions in London |  Led by Diego Vicente, Data Scientist at CARTO
